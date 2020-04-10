@@ -5,7 +5,8 @@ a. Content Management System
       - Posts Management
       - Categories Management
       - Multiple images Upload
-   
+      - Jobs Management
+
 b. Fuly Mobile-resposive website using Bootstrap.
 
 c. Carousel Header
