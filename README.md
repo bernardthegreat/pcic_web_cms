@@ -6,7 +6,8 @@ a. Content Management System
       - Categories Management
       - Multiple images Upload
    
-b. Fuly Mobile-resposive website using Bootstrap. 
+b. Fuly Mobile-resposive website using Bootstrap.
+
 c. Carousel Header
 
 Visit the live url<a href="pciccfs.com"> here.</a>
