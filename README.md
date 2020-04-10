@@ -1,11 +1,13 @@
 Web Application for PCIC CFS Freight Service with the use of CakePHP 2.x with the following functionality:
 
 a. Content Management System
-      - Users Management 
-      - Posts Management
-      - Categories Management
-      - Multiple images Upload
-      - Jobs Management
+      <ul>
+       <li> - Users Management </li> 
+      <li> - Posts Management </li> 
+      <li> - Categories Management </li> 
+      <li> - Multiple images Upload </li> 
+      <li> - Jobs Management </li> 
+      </ul>
 
 b. Fuly Mobile-resposive website using Bootstrap.
 
